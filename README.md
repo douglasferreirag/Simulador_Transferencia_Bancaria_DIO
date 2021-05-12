@@ -1,2 +1,3 @@
 # Simulador_Transferencia_Bancaria_DIO
-Construindo uma api em .NET para simular transferências bancárias
+Neste projeto é construída uma api que simula transferências bancárias. Utiliza - se nesse processo conceitos de OO e armazenamento em memória.
+
